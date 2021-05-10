@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1391199045",
+    "project_id": "todo-list-e390d",
+    "storage_bucket": "todo-list-e390d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1391199045:android:adc5b4a3cc76eaccf5b42c",
+        "android_client_info": {
+          "package_name": "com.MayQuartet.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1391199045-eveah8bfqcar63mj9l04ruapr0ee0bcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kgjhp7p05LRP3rgHbZBV3buC2Yzs2yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1391199045-eveah8bfqcar63mj9l04ruapr0ee0bcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
